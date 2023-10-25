@@ -5,4 +5,4 @@ The data is cleaned and the columns plotted in a pairplot, to determine relation
 
 A random forest model is then tuned to predict housing prices and extract information about key variables regarding energy usage in the United States.
 
-Please look at the 
+Please look at the RECS Model.ipynb file for the code + Testing Results
